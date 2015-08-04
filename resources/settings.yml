@@ -1,0 +1,10 @@
+---
+# Format: "x:y:z"
+# Game level is the default server level
+# !!Plugin not intended to work with multiple worlds!!
+spawns:
+- "21:50:23"
+- "24:50:30"
+- "30:50:21"
+- "25:50:40"
+...
